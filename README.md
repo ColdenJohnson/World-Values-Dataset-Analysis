@@ -1,4 +1,6 @@
-# World-Values-Dataset-Analysis
-2021 Data Analysis (Archived Here)
+# Personal-Dataset
+Data Science
 
-This is an old highschool project analyzing the world values survey.
+Research question: Is the resource trap a real phenomenon?
+
+Note: please select description of uploaded graphs for information on data processing steps, as well as for a brief description of the graph's significance.
